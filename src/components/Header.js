@@ -12,8 +12,8 @@ class Header extends React.Component {
             A Software Engineer.
           </h1>
           <p>
-            Accumsan feugiat mi commodo erat lorem ipsum, sed magna<br />
-            lobortis feugiat sapien sed etiam volutpat accumsan.
+            <br />
+            Designer.Programmer.Creator.Innovator
           </p>
           <ul className="actions">
             <li>
